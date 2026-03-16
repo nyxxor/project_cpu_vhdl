@@ -1,9 +1,3 @@
-
--- ============================================================
--- ALU - Arithmetic Logic Unit
--- Implements 16 operations selected by S_ALU
--- Based on laboratory specification diagram
--- ============================================================
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
